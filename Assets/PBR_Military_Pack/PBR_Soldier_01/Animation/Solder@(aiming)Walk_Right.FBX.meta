@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 6ffd2c7610d68984b9305f23805ecc6e
+timeCreated: 1520335962
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bodyl_mesh
+    100002: CATRigHub001
+    100004: CATRigHub001Bone001
+    100006: CATRigHub002
+    100008: CATRigHub003
+    100010: CATRigLArm1
+    100012: CATRigLArm21
+    100014: CATRigLArm22
+    100016: CATRigLArmCollarbone
+    100018: CATRigLArmDigit11
+    100020: CATRigLArmDigit12
+    100022: CATRigLArmDigit13
+    100024: CATRigLArmDigit21
+    100026: CATRigLArmDigit22
+    100028: CATRigLArmDigit23
+    100030: CATRigLArmDigit31
+    100032: CATRigLArmDigit32
+    100034: CATRigLArmDigit33
+    100036: CATRigLArmDigit41
+    100038: CATRigLArmDigit42
+    100040: CATRigLArmDigit43
+    100042: CATRigLArmDigit51
+    100044: CATRigLArmDigit52
+    100046: CATRigLArmDigit53
+    100048: CATRigLArmIKTarget
+    100050: CATRigLArmPalm
+    100052: CATRigLLeg1
+    100054: CATRigLLeg2
+    100056: CATRigLLegAnkle
+    100058: CATRigLLegDigit11
+    100060: CATRigLLegPlatform
+    100062: CATRigRArm1
+    100064: CATRigRArm21
+    100066: CATRigRArm22
+    100068: CATRigRArmCollarbone
+    100070: CATRigRArmDigit11
+    100072: CATRigRArmDigit12
+    100074: CATRigRArmDigit13
+    100076: CATRigRArmDigit21
+    100078: CATRigRArmDigit22
+    100080: CATRigRArmDigit23
+    100082: CATRigRArmDigit31
+    100084: CATRigRArmDigit32
+    100086: CATRigRArmDigit33
+    100088: CATRigRArmDigit41
+    100090: CATRigRArmDigit42
+    100092: CATRigRArmDigit43
+    100094: CATRigRArmDigit51
+    100096: CATRigRArmDigit52
+    100098: CATRigRArmDigit53
+    100100: CATRigRArmIKTarget
+    100102: CATRigRArmPalm
+    100104: CATRigRLeg1
+    100106: CATRigRLeg2
+    100108: CATRigRLegAnkle
+    100110: CATRigRLegDigit11
+    100112: CATRigRLegPlatform
+    100114: CATRigSpine
+    100116: CATRigSpine1
+    100118: CATRigSpine2
+    100120: Character001
+    100122: Equipment_mesh
+    100124: Object001
+    100126: Object002
+    100128: Object003
+    100130: Object004
+    100132: Object005
+    100134: Object006
+    100136: Pistol_mesh
+    100138: //RootNode
+    100140: Tommy_gun_mesh
+    400000: Bodyl_mesh
+    400002: CATRigHub001
+    400004: CATRigHub001Bone001
+    400006: CATRigHub002
+    400008: CATRigHub003
+    400010: CATRigLArm1
+    400012: CATRigLArm21
+    400014: CATRigLArm22
+    400016: CATRigLArmCollarbone
+    400018: CATRigLArmDigit11
+    400020: CATRigLArmDigit12
+    400022: CATRigLArmDigit13
+    400024: CATRigLArmDigit21
+    400026: CATRigLArmDigit22
+    400028: CATRigLArmDigit23
+    400030: CATRigLArmDigit31
+    400032: CATRigLArmDigit32
+    400034: CATRigLArmDigit33
+    400036: CATRigLArmDigit41
+    400038: CATRigLArmDigit42
+    400040: CATRigLArmDigit43
+    400042: CATRigLArmDigit51
+    400044: CATRigLArmDigit52
+    400046: CATRigLArmDigit53
+    400048: CATRigLArmIKTarget
+    400050: CATRigLArmPalm
+    400052: CATRigLLeg1
+    400054: CATRigLLeg2
+    400056: CATRigLLegAnkle
+    400058: CATRigLLegDigit11
+    400060: CATRigLLegPlatform
+    400062: CATRigRArm1
+    400064: CATRigRArm21
+    400066: CATRigRArm22
+    400068: CATRigRArmCollarbone
+    400070: CATRigRArmDigit11
+    400072: CATRigRArmDigit12
+    400074: CATRigRArmDigit13
+    400076: CATRigRArmDigit21
+    400078: CATRigRArmDigit22
+    400080: CATRigRArmDigit23
+    400082: CATRigRArmDigit31
+    400084: CATRigRArmDigit32
+    400086: CATRigRArmDigit33
+    400088: CATRigRArmDigit41
+    400090: CATRigRArmDigit42
+    400092: CATRigRArmDigit43
+    400094: CATRigRArmDigit51
+    400096: CATRigRArmDigit52
+    400098: CATRigRArmDigit53
+    400100: CATRigRArmIKTarget
+    400102: CATRigRArmPalm
+    400104: CATRigRLeg1
+    400106: CATRigRLeg2
+    400108: CATRigRLegAnkle
+    400110: CATRigRLegDigit11
+    400112: CATRigRLegPlatform
+    400114: CATRigSpine
+    400116: CATRigSpine1
+    400118: CATRigSpine2
+    400120: Character001
+    400122: Equipment_mesh
+    400124: Object001
+    400126: Object002
+    400128: Object003
+    400130: Object004
+    400132: Object005
+    400134: Object006
+    400136: Pistol_mesh
+    400138: //RootNode
+    400140: Tommy_gun_mesh
+    2100000: Tommy_gun
+    2100002: Body
+    2100004: No Name
+    2100006: Equipment
+    2100008: Pistol
+    2300000: Character001
+    2300002: Object001
+    2300004: Object002
+    2300006: Object003
+    2300008: Object004
+    2300010: Object005
+    2300012: Object006
+    2300014: Pistol_mesh
+    2300016: Tommy_gun_mesh
+    3300000: Character001
+    3300002: Object001
+    3300004: Object002
+    3300006: Object003
+    3300008: Object004
+    3300010: Object005
+    3300012: Object006
+    3300014: Pistol_mesh
+    3300016: Tommy_gun_mesh
+    4300000: Tommy_gun_mesh
+    4300002: Bodyl_mesh
+    4300004: Character001
+    4300006: Object005
+    4300008: Pistol_mesh
+    4300010: Object006
+    4300012: Object001
+    4300014: Object003
+    4300016: Object004
+    4300018: Object002
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Bodyl_mesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
